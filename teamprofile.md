@@ -1,4 +1,6 @@
-Team Profile
+# Team Supreme
+
+## Team Profile
 
 The test outcomes for each person in the team (all 3 tests), and your understanding of how this information may be helpful to the group. You should do this as soon as your group is formed. You will have a chance to reflect on how well the group has worked later.
 
