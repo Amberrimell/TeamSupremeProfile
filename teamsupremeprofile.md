@@ -81,3 +81,7 @@ I imagine that all of our dream jobs are going to require the ability to collabo
 
 **Grace Vigo's Ideal Job:**
 
+
+
+[Spencer's Profile]() [John's Profile]()  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile]()  [Grace's Profile]()
+
