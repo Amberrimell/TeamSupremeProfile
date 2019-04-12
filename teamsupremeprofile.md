@@ -78,10 +78,7 @@ The applicant needs the ability to:
 - Problem solve
 - Collaborate
 - Have great written & oral communication
-- Design & implement Game Systems such as - User Interface
-                                          - Animation
-                                          - Gameplay Scripting
-                                          - Online Networking
+- Design & implement Game Systems such as: User Interface, Animation, Gameplay Scripting, Online Networking
 
 I imagine that all of our dream jobs are going to require the ability to collaborate and work with others. 
 
