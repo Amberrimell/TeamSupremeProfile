@@ -22,6 +22,8 @@ I don’t have much IT experience other than working in administration roles, us
 
 **Wayne Van Son**
 
+Hey All, I'm here and alive. I will chuck some stuff here tonight or tomorrow.
+My assignment is linked below.
 
 
 **Grace Vigo**
@@ -84,5 +86,5 @@ I imagine that all of our dream jobs are going to require the ability to collabo
 
 
 
-[Spencer's Profile]() [John's Profile]()  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile]()  [Grace's Profile]()
+[Spencer's Profile]() [John's Profile]()  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
 
