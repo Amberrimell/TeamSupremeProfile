@@ -70,7 +70,18 @@ This shows that I like to get things done in a concise manner and have a clear p
 
 *Senior Gameplay Programmer*
 
-As a Senior Gameplay Programmer, there will be a lot of coding & debugging involved. The applicant needs the ability to design, document and develop core gameplay systems. The applicant needs to be adaptable to change and have a strong ability to problem solve. Experience in the design & implementation of various game systems, including user interface, animation, gameplay scripting & online networking is required. As well as, great written & oral skills, and the ability to collaborate. **-rewrite to dot points instead of a paragraph**
+As a Senior Gameplay Programmer, there will be a lot of coding & debugging involved.
+
+The applicant needs the ability to:
+- Design, document & develop Core Gameplay Systems
+- Adapt
+- Problem solve
+- Collaborate
+- Have great written & oral communication
+- Design & implement Game Systems such as - User Interface
+                                          - Animation
+                                          - Gameplay Scripting
+                                          - Online Networking
 
 I imagine that all of our dream jobs are going to require the ability to collaborate and work with others. 
 
