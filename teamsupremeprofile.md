@@ -8,7 +8,7 @@
 
 **John Efthimiadis**
 
-
+My name is John Efthimiadis and  I am of a  Greek background,  born here in Australia to parents of Greek heritage.  I am bilingual and speak both Greek and English.  I have completed a Bachelor of Engineering  degree in the field of Materials Engineering at Monash University in 2005.  I have several hobbies including playing the guitar (acoustic and classical) and reading books and newspapers.  I have an interest in scientific as well as Engineering based issues.  I also enjoy gardening mowing the lawns and trimming the hedges at home.
 
 **Amber Rimell**
 
@@ -37,6 +37,11 @@ The test outcomes for each person in the team (all 3 tests), and your understand
 **Spencer De Hoedt's test outcomes:**
 
 **John Efthimiadis' test outcomes:**
+
+“The results of an online Myers-Briggs Test reveal  that I am a CONSUL ESFJ-A personality type with Mind: a trait determining how we interact with our environment (51 % Extraverted ; 49 % Introverted); Energy: a trait showing where we direct our mental energy (34 % Intuitive ; 66 % Observant); Nature: This trait determines how we make decisions and cope with emotions (29 %Thinking ; 71 % Feeling) ;  Tactics: This trait reflects our approach to work, planning and decision making (75 % Judging ; 25 % Prospecting); Identity: This trait underpins all others, showing how confident we are in our abilities and decisions. (61 % Assertive 39 % Turbulent ). ( From www.16personaities.com/esfj-personality)”
+
+“The results of an online learning style test indicate that I am primarily a(n): visual learner. “ The visual learner remembers 75 % of what they read or see.  Demonstrations from the blackboard,diagrams, graphs and charts are all valuable tools for the visual learner.  Generally, analytic visual learners will process the printed word before the iconic (pictorial) information.  Generally, global visual learners will process iconic (pictorial) information before reading the printed text. ( From www.whatismylearningstyle.com/visual-learner.html)”
+
 
 **Amber Rimell's test outcomes:**
 
@@ -94,5 +99,5 @@ I imagine that all of our dream jobs are going to require the ability to collabo
 
 
 
-[Spencer's Profile]() [John's Profile]()  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
+[Spencer's Profile]() [John's Profile](https://github.com/efthimiadis/my-profile)  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
 
