@@ -18,7 +18,7 @@ I don’t have much IT experience other than working in administration roles, us
 
 **Vu Tran**
 
-
+My name is Vu Tran (student code: s3775589) and I am part of Team Supreme. My parents are Vietnamese who came to Australia following the Vietnam War. I can speak both Vietnamese and English however my Vietnamese is not quite fluent. I enjoy playing video games on the daily and my main interest is IT as a game developer/cyber security specialist. I am still unsure of which pathway I want to follow at the moment and am hoping that this course will give me an idea of which direction I want to go through. Most days I work as a support technician for schools. I also enjoy fitness and regularly go to the gym or jog in the morning around my area.
 
 **Wayne Van Son**
 
@@ -55,6 +55,18 @@ This shows that I like to get things done in a concise manner and have a clear p
 
 **Vu Tran**
 
+**The Learning Style Test**
+
+Based on this test, it advises that I am a 40% auditory learner. I believe that this is true as it is easier for me to memorise work by listening to the explanation. I also benefit from Visual learning as it visualising the process also helps me memorise the work.
+
+**The Myers-Brigg Test**
+
+The above test indicates that I am organised, responsible, efficient and value experience. I believe that this is true as I like to plan ahead to ensure that I know what I am doing or to prepare enough time to learn the things i need to know before completing my task. I do believe that gaining experience can benefit anyone in any part of their daily life whether it is work, your social life or your private life.
+
+**The Aptitude Test**
+
+The results of the aptitude/psychometric test show that I am able to read through verbal data, identify critical issues and reach logical conclusions. The test compares your results with those who have also taken it who have a score of 7 or more place you in a higher position compared to the average person's result.
+
 **Wayne Van Son**
 
 **Grace Vigo**
@@ -89,7 +101,7 @@ I imagine that all of our dream jobs are going to require the ability to collabo
 
 **Vu Tran**
 
-
+At the moment I am unsure of which pathway that I would like to choose. I am interested in being a Game Developer and a Cyber Security Specialist however I amm leaning more to being a Game Developer because of my interests in video games. The role would require you to have the skills to develop, design and program the game. You will need to solve bugs that arise during gameplay and program same for minor issues that can affect the game. You will need to work co-operatively with co-workers throughout the development of the game to ensure the best content for the users.
 
 **Wayne Van Son**
 
