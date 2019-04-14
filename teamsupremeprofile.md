@@ -22,8 +22,8 @@ My name is Vu Tran (student code: s3775589) and I am part of Team Supreme. My pa
 
 **Wayne Van Son**
 
-Hey All, I'm here and alive. I will chuck some stuff here tonight or tomorrow.
-My assignment is linked below.
+I am Wayne Van Son (student ID: s3778531), born in Australia, my grandparents were born in the Netherlands and Poland.
+I love my beautiful boy, Kevin. He’s a cat and spends much of his time creating his best skirting board impressions; laid hard against a wall with a stretched out body. I enjoy playing the drums, cooking, as well as listening to music and producing beats.
 
 
 **Grace Vigo**
@@ -69,6 +69,8 @@ The results of the aptitude/psychometric test show that I am able to read throug
 
 **Wayne Van Son**
 
+My online personality tests indicate that I am extroverted, intuitive, feeling, prospecting and turbulent. This means that I ‘go with the flow’ and I will course to action based on how I feel more than ‘how it is’.  Learning styles are mixed with visual and kinesthetic.
+
 **Grace Vigo**
 
 
@@ -105,6 +107,8 @@ At the moment I am unsure of which pathway that I would like to choose. I am int
 
 **Wayne Van Son**
 
+My ideal job is as a full stack developer, entailing many using many languages, a frameworks and services. This job is inviting due to its nature of a startup: Building things from the ground up and the excitement of starting something new. 
+Skills required are using HTML, CSS and javascript as langues. It also requires understanding of the development process and database/server requirements.
 
 
 **Grace Vigo**
