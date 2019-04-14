@@ -79,6 +79,8 @@ My online personality tests indicate that I am extroverted, intuitive, feeling, 
 
 **Spencer De Hoedt**
 
+Ideal job is to become software developer I have be working electronic have do some programming  software but not to the extreme that I am hoping  progress  into
+
 
 
 **John Efthimiadis**
