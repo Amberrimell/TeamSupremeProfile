@@ -3,8 +3,7 @@
 ## Personal Information
 
 **Spencer De Hoedt**
-
-	                                  Introduction
+	                                 
   
 My name is Spencer De Hoedt, I was bone in Sri Lanka and my parents are Dutch who came to Sri Lanka as missionary to help out Sri Lankan's. My grandparents were doctors who came to Sri Lanka to help in rural area and ended up staying in Sri Lanka. I migrated to Australia when I was 13 years old and I live in NSW 29 years then move to Melbourne 3 years ago with my wife.
 I have associate Diploma in information Technology in 1998, Diploma communication and electronics 2015. I work as instrument Technician working on instrument that monitors pollution in air in Melbourne tunnel. I had been working in electronics’ for 20 years and want to progress to the next step.
