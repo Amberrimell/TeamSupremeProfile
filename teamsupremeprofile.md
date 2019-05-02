@@ -103,7 +103,7 @@ I imagine that all of our dream jobs are going to require the ability to collabo
 
 **Vu Tran**
 
-At the moment I am unsure of which pathway that I would like to choose. I am interested in being a Game Developer and a Cyber Security Specialist however I amm leaning more to being a Game Developer because of my interests in video games. The role would require you to have the skills to develop, design and program the game. You will need to solve bugs that arise during gameplay and program same for minor issues that can affect the game. You will need to work co-operatively with co-workers throughout the development of the game to ensure the best content for the users.
+At the moment I am unsure of which pathway that I would like to choose. I am interested in being a Game Developer and a Cyber Security Specialist however I am leaning more to being a Game Developer because of my interests in video games. The role would require you to have the skills to develop, design and program the game. You will need to solve bugs that arise during gameplay and program same for minor issues that can affect the game. You will need to work co-operatively with co-workers throughout the development of the game to ensure the best content for the users.
 
 **Wayne Van Son**
 
@@ -113,7 +113,9 @@ Skills required are using HTML, CSS and javascript as langues. It also requires 
 
 **Grace Vigo**
 
+## Group Processes 
 
+## Career Plans 
 
 [Spencer's Profile]() [John's Profile](https://github.com/efthimiadis/my-profile)  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
 
