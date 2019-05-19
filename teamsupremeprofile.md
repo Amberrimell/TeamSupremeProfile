@@ -12,9 +12,7 @@ My name is John Efthimiadis and  I am of a  Greek background,  born here in Aust
 
 **Amber Rimell**
 
-My name is Amber Rimell (S3775604), and I am currently undertaking a Bachelor of IT part-time. I intend to further my studies after this and get a Masters degree. 
-I am a Kiwi, though I’ve been in Australia since I was 10. I have a 1.5 year old daughter. I like baking and video games. I have a love for computers, Playstations and all things tech. I aspire to work as a Senior Gameplay Programmer. 
-I don’t have much IT experience other than working in administration roles, using Microsoft Office frequently, and using other softwares such as MYOB. I have always been the go-to girl for fixing computer problems, though I have no professional background.
+My name is Amber Rimell (S3775604) and I am a member of Team Supreme. I am a Kiwi, though I’ve been in Australia since I was 10. I have a 1.5 year old daughter. I like baking and video games. I have a love for computers, Playstations and all things tech. I aspire to work as a Senior Gameplay Programmer. I don’t have much IT experience other than working in administration roles, using Microsoft Office frequently, and using other softwares such as MYOB, though I have always been the go-to girl for fixing computer problems.
 
 **Vu Tran**
 
