@@ -131,7 +131,52 @@ Skills required are using HTML, CSS and javascript as langues. It also requires 
 
 ## Group Processes 
 
+**Spencer De Hoedt**
+
+
+**John Efthimiadis**
+
+
+**Amber Rimell**
+
+I believe we all worked together well in Assignment 2. We all completed and submitted our own reports and answers that we needed to to make up the entire assignment. Those who finished the content early then worked together to perfect the formatting of the assignment and ensure it was submit-worthy. We were all supportive and helpful of each other. I don’t think we will be changing much in Assignment 3, save for more communication.
+
+**Vu Tran**
+
+The group worked well in the last assignment as everyone communicated with each other to complete the tasks. Work was distributed evenly between each person who had participated and those who finished the work early had put in the extra effort to provide assistance to those who needed the help or worked on another task that had yet to be designated. As the group communicates well with each other, the only thing that is required of us to do is the extra independent research that is needed for the assignment.
+
+
+**Wayne Van Son**
+
+
+**Grace Vigo**
+
+
 ## Career Plans 
+
+**Spencer De Hoedt**
+
+
+
+**John Efthimiadis**
+
+
+
+**Amber Rimell**
+
+
+
+**Vu Tran**
+
+
+
+**Wayne Van Son**
+
+
+
+**Grace Vigo**
+
+
 
 [Spencer's Profile]() [John's Profile](https://github.com/efthimiadis/my-profile)  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
 
