@@ -156,7 +156,7 @@ The group worked well in the last assignment as everyone communicated with each 
 
 **Spencer De Hoedt**
 
-
+My career plan is to become software developer I would love work with JavaScript and C++. I am hoping career will lead me in this direction, I write programmes better than English language. I enjoy working with writing programmes.
 
 **John Efthimiadis**
 
@@ -164,7 +164,7 @@ The group worked well in the last assignment as everyone communicated with each 
 
 **Amber Rimell**
 
-
+My career plan is to be a Senior Gaming Programmer. I intend to work my way up the IT ladder and break into the gaming industry, my true passion. I would be thrilled to work in any area of gaming, be it coding, animation, environment design, character design or any of the many other aspects of game development. 
 
 **Vu Tran**
 
